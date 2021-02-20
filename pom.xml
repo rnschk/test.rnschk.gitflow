@@ -8,6 +8,7 @@
     <artifactId>gitflow</artifactId>
     <name>gitflow test</name>
     <version>1.0.0-stuff</version>
+    <!-- done some stuff -->
 
     <properties>
         <!-- settings -->
