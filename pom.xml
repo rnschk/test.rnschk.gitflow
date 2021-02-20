@@ -7,7 +7,7 @@
     <groupId>de.rnschk.test</groupId>
     <artifactId>gitflow</artifactId>
     <name>gitflow test</name>
-    <version>1.0.0</version>
+    <version>1.0.0-more-stuff</version>
     <!-- done some stuff -->
 
     <properties>
